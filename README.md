@@ -1,5 +1,5 @@
 # Celebrity Image Generator with DCGAN
-This project is an implementation of a Deep Convolutional Generative Adversarial Network (DCGAN) using Keras and TensorFlow. The model is trained on the CelebA (Celebrity Faces Attributes) dataset to generate new, realistic 128x128 images of celebrity faces.
+This project is an implementation of a Deep Convolutional Generative Adversarial Network (DCGAN) using Keras and TensorFlow. The model is trained on the CelebA (Celebrity Faces Attributes) dataset to generate new, realistic 128x128 images of celebrity faces. You can view the dataset here https://www.kaggle.com/datasets/jessicali9530/celeba-dataset
 
 ## 1. Data Loading & Preprocessing 🧹
 The initial phase involves loading and preparing the CelebA dataset for training the GAN.
